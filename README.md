@@ -22,6 +22,15 @@ I'm passionate about building tech that solves real-world problems — from smar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+### Frameworks & Libraries  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004080?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
+### IDEs & Editors  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![IDLE](https://img.shields.io/badge/IDLE-yellow?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
