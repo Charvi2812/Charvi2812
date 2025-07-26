@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Charvi%20Agarwal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charvi-agarwal-7aa36a335)  
 [![Discord](https://img.shields.io/badge/Discord-charvi%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1353206538369630279)
-(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charviagarwal2812@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charviagarwal2812@gmail.com) 
 ---
 
 ## 🔧 Tech Stack
